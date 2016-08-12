@@ -1,2 +1,2 @@
-# loko
+# loko :smile:
 some test repo
